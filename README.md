@@ -1,5 +1,5 @@
 # GloboTicket ASP.NET Core Microservices Sample Application
-
+https://app.pluralsight.com/library/courses/getting-started-asp-dot-net-core-microservices/
 GloboTicket is a sample ASP.NET Core Microservices application that you can learn about in the Pluralsight .NET Microservices Learning path. This path consists of the following courses:
 
 - Microservices: The Big Picture
